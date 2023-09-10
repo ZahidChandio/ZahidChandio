@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zahid Chandio
 #### I am a MERN stack web developer
-![I am a MERN stack web developer](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+![I am a MERN stack web developer]
 
 I'm Zahid Chandio from Pakistan. I am a MERN(MongoDB, Express, React, Node.js) developer. I really enjoy learning languages and frameworks like Next.js, Django, and Express.js, as well as working in TypeScript.
 
@@ -11,5 +11,3 @@ Skills: NEXT / REACT / JS / HTML / CSS / TYPESCRIPT / TAILWINDCSS
 
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahidChandio&show_icons=true)  

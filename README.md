@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Zahid Chandio
+### Hi there 👋, I'm Zahid Chandio
 #### I am a MERN stack web developer
 
 I'm Zahid Chandio from Pakistan. I am a MERN(MongoDB, Express, React, Node.js) developer. I really enjoy learning languages and frameworks like Next.js, Django, and Express.js, as well as working in TypeScript.

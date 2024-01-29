@@ -8,4 +8,4 @@ Skills: NEXT / REACT / JS / HTML / CSS / TYPESCRIPT / TAILWINDCSS
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning new techs
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZahidChandio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahid-chandio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17646863)
+[<img src='https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/ZahidChandio) [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahid-chandio/) [<img src='https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17646863)

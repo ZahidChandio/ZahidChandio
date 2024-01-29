@@ -36,8 +36,8 @@ Containerization:
 Continuous Integration:
 <img src='https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white' alt='Jenkins' height='40'>
 
-Current Focus<br>
+###Current Focus<br>
 🔭 I’m currently working on enhancing my skills<br>
-🌱 I’m currently learning new technologies<br>
-Connect with Me<br><br>
+🌱 I’m currently learning new technologies<br><br>
+###Connect with Me<br><br>
 [<img src='https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/ZahidChandio) [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahid-chandio/) [<img src='https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17646863)

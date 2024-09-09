@@ -2,7 +2,7 @@
 A passionate full stack web developer. I specialize in building robust and scalable web applications using MongoDB, Next.js/React, Django, Node.js (Express.js) . I enjoy exploring new technologies and frameworks, including Docker, Kubernetes, and Jenkins.
 
 ### Skills
-Frontend: **Next.js, ReactJs**
+***Frontend:*** **Next.js, ReactJs**
 
 ***Styling:*** **TailwindCSS, Bootstrap, Material UI**
 

@@ -1,4 +1,4 @@
-### Hi there. I'm Zahid Chandio
+### Hi there! I'm Zahid Chandio
 A passionate MERN stack web developer from Pakistan. I specialize in building robust and scalable web applications using MongoDB, Express, React, and Node.js. I enjoy exploring new technologies and frameworks, including Next.js, Django, and Express.js.
 
 ### Skills

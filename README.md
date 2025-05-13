@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chands (Zahid Chandio)
+# 👋 Hi, Zahid Chandio
 
 I'm a **full stack web developer** with experience in **React, Next.js , Node.js, Django, Redux, Redux Saga, AWS, Microsoft Azure, Reactflow, TailwindCSS, Bootstrap, Material UI**. I’m also familiar with tools like **Docker, Kubernetes, and Jenkins**.  
 💪 I enjoy building scalable, high-performance web applications.  
